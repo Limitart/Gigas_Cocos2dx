@@ -1,2 +1,2 @@
-GigasCocos2dx
+Gigas_Cocos2dx
 =============
